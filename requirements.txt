@@ -1,9 +1,8 @@
-Requirements :
+
 pyrogram
 TgCrypto
 rarfile
 humanize
 
 
-Runtime :
-python-3.9.2
+
